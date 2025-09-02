@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy | Elmoarekh for History</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #005792;
+    }
+    h1 {
+      font-size: 2rem;
+      border-bottom: 2px solid #005792;
+      padding-bottom: 0.5rem;
+    }
+    h2 {
+      margin-top: 2rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p>Effective Date: August 2, 2025</p>
+
+    <p>This privacy policy applies to the <strong>Elmoarekh for History</strong> application, developed and maintained as a private educational platform for Egyptian high school students and their teacher. The application is built to support secure, interactive, and curriculum-aligned learning experiences for students aged 16 and above.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We collect the following personal information during account registration:</p>
+    <ul>
+      <li>Full name</li>
+      <li>Email address</li>
+      <li>Phone number</li>
+      <li>Parent/Guardian phone number</li>
+      <li>Password</li>
+    </ul>
+
+    <p>This information is used solely to manage student-teacher interaction and maintain user-specific learning records. No sensitive or financial information is collected.</p>
+
+    <h2>2. Permissions Required</h2>
+    <p>The application may request access to the following device features:</p>
+    <ul>
+      <li><strong>Camera & Microphone:</strong> For interactive history lessons, oral presentations, or video-based assignments, as required by the teacher.</li>
+      <li><strong>Storage:</strong> Only if necessary to cache educational content locally.</li>
+    </ul>
+    <p><strong>Location access is NOT requested.</strong></p>
+
+    <h2>3. No Third-Party Data Sharing</h2>
+    <p>This application does not share, sell, or distribute user data to any third-party services. No integration with Google, Facebook, Firebase, or analytics tools is used. The app is fully self-hosted and all data remains private to the teacher’s system.</p>
+
+    <h2>4. Use of YouTube Videos</h2>
+    <p>Some lessons include embedded YouTube videos (e.g., historical documentaries or lectures). These videos are streamed directly from YouTube’s servers. While no direct YouTube login is required, YouTube may collect standard usage data per their own policies.</p>
+
+    <h2>5. Tracking Learning Progress</h2>
+    <p>The app tracks the following learning-related data internally:</p>
+    <ul>
+      <li>Video watch time</li>
+      <li>Quiz scores</li>
+      <li>Assignment completion</li>
+    </ul>
+    <p>This data is used exclusively by the teacher to monitor and improve student performance. It is not exposed to any external system.</p>
+
+    <h2>6. Data Retention</h2>
+    <p>All student data is retained for one academic semester only. At the end of each semester, the teacher resets the platform and deletes all prior records.</p>
+
+    <h2>7. Data Deletion Requests</h2>
+    <p>Students wishing to have their data removed may contact the teacher directly through phone, WhatsApp, or in person. There is no in-app feature to request deletion, as the system is intended for use within a private teacher-student context only.</p>
+
+    <h2>8. Children's Privacy</h2>
+    <p>The app is intended for students aged 16 and older. It is not designed for use by children under 13, and no parental consent mechanism is implemented, as the platform is not directed at children under that age.</p>
+
+    <h2>9. Security</h2>
+    <p>All data is stored securely on the teacher’s server. Reasonable technical safeguards are in place to prevent unauthorized access, misuse, or disclosure of student data.</p>
+
+    <h2>10. Contact</h2>
+    <p>If you have any questions or concerns about this privacy policy, please contact:</p>
+    <p><strong>Elmoarekh Teacher</strong><br>Email: <a href="mailto:example@example.com">example@example.com</a><br>Phone: [Teacher's Contact Number]</p>
+
+    <p>By using the Elmoarekh for History App, you agree to this privacy policy.</p>
+  </div>
+</body>
+</html>
