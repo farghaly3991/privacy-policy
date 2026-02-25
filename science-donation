@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy | Science Donation</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      color: #005792;
+    }
+    h1 {
+      font-size: 2rem;
+      border-bottom: 2px solid #005792;
+      padding-bottom: 0.5rem;
+    }
+    h2 {
+      margin-top: 2rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> August 2, 2025</p>
+
+    <p>
+      This Privacy Policy applies to <strong>Science Donation</strong>, a WebView-based
+      educational application available on Google Play. The platform is operated
+      by a university-level instructor and provides academic content related to
+      industrial chemical preparations (such as paints, coatings, detergents, and
+      similar formulations) strictly for <strong>educational and scientific learning
+      purposes only</strong>.
+    </p>
+
+    <h2>1. Educational & Safety Disclaimer</h2>
+    <p>
+      All content on Science Donation is provided for academic study and theoretical
+      understanding. The platform does <strong>not</strong> promote or support
+      commercial manufacturing, industrial production, or unsafe practical application
+      of chemical formulations.
+    </p>
+    <p>
+      Users are solely responsible for how they use the information provided.
+      Science Donation and its instructors are not responsible for misuse,
+      unsafe practices, or real-world application outside an educational context.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+    <p>When users register or use the platform, we may collect:</p>
+    <ul>
+      <li>Full name</li>
+      <li>Email address</li>
+      <li>Phone number (optional)</li>
+      <li>Login credentials (passwords are stored securely)</li>
+      <li>Subscription or enrollment status</li>
+    </ul>
+    <p>
+      We do <strong>not</strong> collect government IDs, health data, or sensitive
+      personal information.
+    </p>
+
+    <h2>3. Payments & Subscriptions</h2>
+    <p>
+      Science Donation may offer paid subscriptions or course access.
+      All payments are processed securely through Google Play’s billing system.
+    </p>
+    <p>
+      The application does not store or process credit card or financial information
+      directly.
+    </p>
+
+    <h2>4. Permissions & Device Access</h2>
+    <p>The application may request access to:</p>
+    <ul>
+      <li><strong>Camera & Microphone:</strong> For live lectures, recorded sessions,
+          or interactive educational activities (if enabled by the instructor).</li>
+      <li><strong>Storage:</strong> To cache or download educational materials.</li>
+    </ul>
+    <p><strong>Location data is NOT collected.</strong></p>
+
+    <h2>5. Assignments, Quizzes & Progress Tracking</h2>
+    <p>The platform may collect and store educational activity data such as:</p>
+    <ul>
+      <li>Video watch progress</li>
+      <li>Quiz and exam results</li>
+      <li>Assignment submissions</li>
+      <li>Course completion status</li>
+    </ul>
+    <p>
+      This data is used solely for educational evaluation and instructor feedback.
+    </p>
+
+    <h2>6. Third-Party Services</h2>
+    <p>
+      Science Donation does not sell or share user data with third-party advertisers.
+      No external analytics or marketing SDKs are used.
+    </p>
+    <p>
+      Some educational content may include embedded videos (such as YouTube).
+      These services may collect limited usage data according to their own
+      privacy policies.
+    </p>
+
+    <h2>7. Data Retention</h2>
+    <p>
+      User data is retained only as long as necessary to provide educational services
+      and manage subscriptions. Data may be deleted when accounts are inactive or
+      upon request.
+    </p>
+
+    <h2>8. Data Deletion Requests</h2>
+    <p>
+      Users may request account or data deletion by contacting the platform
+      administrator or instructor directly. Requests will be processed within
+      a reasonable timeframe.
+    </p>
+
+    <h2>9. Age Requirement</h2>
+    <p>
+      Science Donation is intended for university students and adult learners.
+      The app is not designed for children under the age of 16.
+    </p>
+
+    <h2>10. Security</h2>
+    <p>
+      Appropriate technical and organizational measures are implemented to protect
+      user data from unauthorized access, loss, or misuse.
+    </p>
+
+    <h2>11. Contact Information</h2>
+    <p>
+      If you have any questions about this Privacy Policy, please contact:
+    </p>
+    <p>
+      <strong>Science Donation Administration</strong><br />
+      Contact details will be provided within the platform.
+    </p>
+
+    <p>
+      By using the Science Donation application, you confirm that you have read,
+      understood, and agreed to this Privacy Policy.
+    </p>
+  </div>
+</body>
+</html>
